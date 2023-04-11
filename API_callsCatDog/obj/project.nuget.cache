@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qw+5GN7/DtOOVgXRNbI4w5GyVMnyMZ1fXfqx7mYub48bn61aQC3Hhzeqtm+++I1PH06Af6osTQGoQH+XjwTh+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polak\\source\\repos\\API_callsCatDog\\API_callsCatDog\\API_callsCatDog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polak\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
