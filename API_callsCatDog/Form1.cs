@@ -25,10 +25,14 @@ namespace API_callsCatDog
                 var catUrl = catImg[0].url;
                 pictureBox1.Height = 400;
                 pictureBox1.Width = 400;
-                
                 pictureBox1.Location = new Point(0,0);
                 pictureBox1.Load(catUrl);
             }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
